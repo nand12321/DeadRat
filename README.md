@@ -33,8 +33,8 @@ You may need to restart your terminal after installation.
 love .
 ```
 
-![Screenshot](assets/screenshots/screenshot3.png.png)
+![Screenshot](assets/screenshots/screenshot3.png)
 
-![Screenshot](assets/screenshots/screenshot1.png.png)
+![Screenshot](assets/screenshots/screenshot1.png)
 
-![Screenshot](assets/screenshots/screenshot2.png.png)
+![Screenshot](assets/screenshots/screenshot2.png)
