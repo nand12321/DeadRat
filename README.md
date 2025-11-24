@@ -32,3 +32,9 @@ You may need to restart your terminal after installation.
 ```bash
 love .
 ```
+
+![Screenshot](assets/screenshots/screenshot3.png.png)
+
+![Screenshot](assets/screenshots/screenshot1.png.png)
+
+![Screenshot](assets/screenshots/screenshot2.png.png)
